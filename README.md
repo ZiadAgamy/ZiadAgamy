@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌈 Hey, I'm Ziad Agamy!
+# 👋 Hey, I'm Ziad Agamy!
 
 ### 👨‍💻 Developer • 🎵 Music Producer • 💚 Fluxer Enthusiast
 
