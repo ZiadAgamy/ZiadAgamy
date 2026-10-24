@@ -34,7 +34,7 @@ Hi! I'm **Ziad**, a developer, music producer, and Fluxer enthusiast who loves t
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧱 Scratch For Fluxer</h3>
+<h3>🧩 Scratch For Fluxer</h3>
 
 A visual, block-based builder inspired by Scratch that lets you create Fluxer bots using a drag-and-drop workflow powered by the `fluxer.py` API.
 
