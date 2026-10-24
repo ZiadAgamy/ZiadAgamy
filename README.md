@@ -3,7 +3,7 @@
 
 # 🌈 Hey, I'm Ziad Agamy!
 
-### 👨‍💻 Developer • 🎵 Music Producer • 💜 Fluxer Enthusiast
+### 👨‍💻 Developer • 🎵 Music Producer • 💚 Fluxer Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8BF098&center=true&vCenter=true&width=700&lines=Building+cool+things+for+online+communities;Creating+tools+for+Fluxer;Coding+%2B+music+%2B+creative+ideas;Turning+ideas+into+reality" alt="Typing animation" />
 
@@ -93,9 +93,9 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZiadAgamy&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF" alt="Ziad's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZiadAgamy&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8BF098&icon_color=8BF098&text_color=FFFFFF" alt="Ziad's GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAgamy&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAgamy&layout=compact&hide_border=true&bg_color=8BF098&title_color=8BF098&text_color=FFFFFF" alt="Most used languages" />
 
 </div>
 
