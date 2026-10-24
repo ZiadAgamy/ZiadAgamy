@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Developer • 🎵 Music Producer • 💜 Fluxer Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+cool+things+for+online+communities;Creating+tools+for+Fluxer;Coding+%2B+music+%2B+creative+ideas;Turning+ideas+into+reality" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8BF098&center=true&vCenter=true&width=700&lines=Building+cool+things+for+online+communities;Creating+tools+for+Fluxer;Coding+%2B+music+%2B+creative+ideas;Turning+ideas+into+reality" alt="Typing animation" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZiadAgamy-181717?style=for-the-badge&logo=github)](https://github.com/ZiadAgamy)
 [![Scratch For Fluxer](https://img.shields.io/badge/Scratch_For_Fluxer-8B5CF6?style=for-the-badge)](https://scratch.fluxer.my)
@@ -145,6 +145,6 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 
 **Keep creating. Keep learning. Keep building.** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=100&section=footer" width="100%" alt="Colorful footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BF098,50:65DDA0,100:06B6D4&height=100&section=footer" width="100%" alt="Green gradient footer" />
 
 </div>
