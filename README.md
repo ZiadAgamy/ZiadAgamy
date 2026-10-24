@@ -39,7 +39,7 @@ Hi! I'm **Ziad**, a developer, music producer, and Fluxer enthusiast who loves t
 A visual, block-based builder inspired by Scratch that lets you create Fluxer bots using a drag-and-drop workflow powered by the `fluxer.py` API.
 
 <a href="https://scratch.fluxer.my">
-  <img src="https://img.shields.io/badge/🌐_Visit_Project-8B5CF6?style=for-the-badge" alt="Visit Scratch For Fluxer" />
+  <img src="https://img.shields.io/badge/🌐_Visit_Project-8BF098?style=for-the-badge" alt="Visit Scratch For Fluxer" />
 </a>
 
 **Highlights**
@@ -54,8 +54,8 @@ A visual, block-based builder inspired by Scratch that lets you create Fluxer bo
 
 A temporary voice-channel bot for Fluxer that makes voice-channel creation and management easier for community owners and members.
 
-<a href="https://github.com/ZiadAgamy">
-  <img src="https://img.shields.io/badge/🤖_Explore_GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
+<a href="https://github.com/ZiadAgamy/Voicey">
+  <img src="https://img.shields.io/badge/🤖_Explore_GitHub-8BF098?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
 </a>
 
 **Highlights**
@@ -84,7 +84,6 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
