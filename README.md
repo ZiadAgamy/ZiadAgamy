@@ -101,16 +101,6 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ziad's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZiadAgamy&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=06B6D4&area=true&hide_border=true)](https://github.com/ZiadAgamy)
-
-</div>
-
----
-
 ## 🔭 Currently Working On
 
 - 🧱 Improving **Scratch For Fluxer**
@@ -129,7 +119,7 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 </a>
 
 <a href="https://scratch.fluxer.my">
-  <img src="https://img.shields.io/badge/Scratch_For_Fluxer-Visit_Project-8B5CF6?style=for-the-badge" alt="Scratch For Fluxer" />
+  <img src="https://img.shields.io/badge/Scratch_For_Fluxer-Visit_Project-8BF098?style=for-the-badge" alt="Scratch For Fluxer" />
 </a>
 
 </div>
