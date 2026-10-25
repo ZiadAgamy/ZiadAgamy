@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="./banner.png" width="180" alt="Ziad Agamy" />
+</p>
+
+
 <div align="center">
 
 # 👋 Hey, I'm Ziad Agamy!
