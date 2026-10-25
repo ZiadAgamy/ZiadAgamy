@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Banner.png" width="250" alt="Ziad Agamy" />
+  <img src="./Banner.png" width="320" alt="Ziad Agamy" />
 </p>
 
 
