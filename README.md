@@ -102,6 +102,8 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAgamy&layout=compact&hide_border=true&bg_color=010409&title_color=8BF098&text_color=FFFFFF" alt="Most used languages" />
 
+![Profile views](https://komarev.com/ghpvc/?username=invaliduser231&color=8BF098&style=flat-square)
+
 </div>
 
 ---
