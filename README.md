@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./Banner.png" width="400" alt="Ziad Agamy" />
 </p>
@@ -138,8 +137,6 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
 <div align="center">
 
 ### ✨ Thanks for visiting my profile!
-
-**Keep creating. Keep learning. Keep building.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BF098,50:65DDA0,100:06B6D4&height=100&section=footer" width="100%" alt="Green gradient footer" />
 
