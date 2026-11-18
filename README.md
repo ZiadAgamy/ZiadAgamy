@@ -124,7 +124,7 @@ A temporary voice-channel bot for Fluxer that makes voice-channel creation and m
   <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-<a href="https://scratch.fluxer.my">
+<a href="https://ziadagamy.fluxer.name">
   <img src="https://img.shields.io/badge/Fluxer.Name-Visit_Profile-8BF098?style=for-the-badge" alt="Fluxer.Name" />
 </a>
 
